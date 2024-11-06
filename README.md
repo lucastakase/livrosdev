@@ -1,34 +1,21 @@
-# Livros para JavaScript, HTML e CSS - Imersao Dev Alura
+# Books for JavaScript, HTML, and CSS: A Simple Web Catalog
 
-**Descrição:**
+**Description**
 
-Este projeto web é um catálogo simples de livros, permitindo que o usuário busque por conteúdo de JavaScript, HTML e CSS. Os resultados da pesquisa são exibidos de forma clara e concisa.
+This web application serves as a basic catalog for books related to JavaScript, HTML, and CSS. Developed as part of a 5-hour Alura Dev Immersion course, it represents my first steps into the world of web development.
 
-**Tecnologias Utilizadas:**
+**Key Features**
 
-* **HTML:** Estrutura básica da página, definindo elementos como cabeçalho, corpo e rodapé.
-* **CSS:** Estilização da página, definindo a aparência visual dos elementos.
-* **JavaScript:** Lógica da aplicação, responsável pela interação com o usuário e pela exibição dos resultados da pesquisa.
+* **Search Functionality:** Users can easily find specific books by entering keywords.
+* **Clear and Concise Results:** The search results are presented in a user-friendly format, showcasing essential details such as title, author, difficulty level, and purchase links.
+* **Data-Driven Approach:** The application utilizes a `dadosdev.js` file to store book information, promoting flexibility and maintainability.
 
-**Funcionalidades:**
+**Technologies Employed**
 
-* **Pesquisa:** Permite ao usuário buscar por livros utilizando palavras-chave.
-* **Exibição de resultados:** Apresenta os resultados da pesquisa de forma organizada, com título, descrição, autor, dificuldade e link para compra.
-* **Tratamento de dados:** Utiliza um arquivo `dadosdev.js` para armazenar as informações sobre as canetas.
+* **HTML:** Provides the foundational structure of the web pages.
+* **CSS:** Enhances the visual appeal and layout of the application.
+* **JavaScript:** Powers the search functionality and dynamic updates to the user interface.
 
-**Como usar:**
+**Project Link**
 
-1. **Clonar o repositório:** Use o comando `git clone https://[seu_repositório]` para clonar o projeto para o seu computador.
-2. **Abrir o projeto:** Abra os arquivos HTML, CSS e JavaScript em seu editor de código preferido.
-3. **Visualizar:** Abra o arquivo HTML em um navegador para visualizar a aplicação.
-
-**Contribuições:**
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request.
-
-**Autor:**
-
-[lucastakase]
-
-**Link:**
-https://livrosdev.vercel.app/
+[https://livrosdev.vercel.app/](https://livrosdev.vercel.app/)
